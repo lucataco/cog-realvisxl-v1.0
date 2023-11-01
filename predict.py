@@ -10,7 +10,7 @@ from diffusers import (DDIMScheduler,
     HeunDiscreteScheduler, 
     PNDMScheduler)
 
-MODEL_NAME = "SG161222/RealVisXL_V1.0"
+MODEL_NAME = "SG161222/RealVisXL_V2.0"
 MODEL_CACHE = "model-cache"
 
 SCHEDULERS = {
